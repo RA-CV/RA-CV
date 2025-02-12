@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="./Docker.png" width="3000" height="400" alt="Docker" />
+ <img src="./Docker1.png" width="1000" height="400" alt="Docker" />
 
 Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ricardo Cervantes
 =========================================================================================================================================
